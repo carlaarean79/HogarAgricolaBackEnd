@@ -9,12 +9,12 @@ export class TutorialRecienteController {
     @HttpCode(200)
     getTutorialRecienteById(@Param('id',new ParseIntPipe({
         errorHttpStatusCode:HttpStatus.NOT_ACCEPTABLE
-    }))id:number): Promise<any> {
+    }))id:number): Promise<TutorialDTO> {
      return this.recienteService.getTutorialRecienteById(id);
     }
     @Get()
     @HttpCode(200)
-    getTutotialReciente(@Query() query: any): Promise<TutorialDTO[]>{
+    getTutorialReciente(@Query() query: any): Promise<TutorialDTO[]>{
         return this.recienteService.getTutorialReciente(query);
     }
 }

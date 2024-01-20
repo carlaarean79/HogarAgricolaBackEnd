@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-const URL ='http://localhost:3031/menu/';
+const URL ='http://localhost:3030/tutoriales';
 @Injectable()
 export class TutorialRecienteService {
     getTutorialReciente(query: any): Promise<import("./TutorialDTO").TutorialDTO[]> {

@@ -1,6 +1,9 @@
-import { Module } from '@nestjs/common';
+/* import { Module } from '@nestjs/common';
 import { ServeStaticModule } from '@nestjs/serve-static';
 import { join } from 'path';
+import { MacrameService } from './macrame/macrame.service';
+import { MacrameController } from './macrame/macrame.controller';
+import { MacrameModule } from './macrame/macrame.module';
 import {TutorialRecienteModule}  from './tutorial-reciente/tutorial-reciente.module'
 
 @Module({
@@ -9,3 +12,4 @@ import {TutorialRecienteModule}  from './tutorial-reciente/tutorial-reciente.mod
   providers: [ ],
 })
 export class AppModule {}
+ */
