@@ -1,15 +1,12 @@
-/* import { Module } from '@nestjs/common';
+ import { Module } from '@nestjs/common';
 import { ServeStaticModule } from '@nestjs/serve-static';
 import { join } from 'path';
-import { MacrameService } from './macrame/macrame.service';
-import { MacrameController } from './macrame/macrame.controller';
-import { MacrameModule } from './macrame/macrame.module';
 import {TutorialRecienteModule}  from './tutorial-reciente/tutorial-reciente.module'
+import { TalleresModule } from './talleres/talleres.module';
 
 @Module({
-  imports: [ServeStaticModule.forRoot({ rootPath: join(__dirname, '..', 'client') }), TutorialRecienteModule],
+  imports: [ServeStaticModule.forRoot({ rootPath: join(__dirname, '..', 'client') }), TutorialRecienteModule,TalleresModule],
   controllers: [],
   providers: [ ],
 })
 export class AppModule {}
- */
