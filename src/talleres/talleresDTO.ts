@@ -7,5 +7,9 @@ export class TalleresDTO {
     @IsString()
     nombre: string;
     @IsString()
-    img:string;
+    imagen:string;
+    @IsString()
+    categoria: string;
+    @IsString()
+    descripcion:string
 }
