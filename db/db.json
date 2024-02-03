@@ -213,12 +213,34 @@
       "imagen": "https://www.materialescolar.es/blog/wp-content/uploads/2019/01/61cc63f078fe6113c6737c2829cb789c.jpg",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "categoria": "PinturaTela"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Carla",
+      "apellido": "Arean",
+      "direccion": "empleados 45",
+      "edad": "44",
+      "imagen": "",
+      "email": "carlaandreaarean@gmail.com",
+      "contraseña": "@gmail2782",
+      "hobby": "",
+      "ocupacion": "",
+      "preferencias": ""
     },
     {
-      "id": 26
-    },
-    {
-      "id": 27
+      "id": 2,
+      "nombre": "Juan",
+      "apellido": "Ventureira",
+      "direccion": "empleados 45",
+      "edad": "44",
+      "imagen": "",
+      "email": "cjuanventureiran@gmail.com",
+      "contraseña": "@gventura4532",
+      "hobby": "",
+      "ocupacion": "",
+      "preferencias": ""
     }
   ]
 }

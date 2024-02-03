@@ -5,18 +5,19 @@ import { TalleresDTO } from './talleresDTO';
 @Controller('talleres')
 export class TalleresController {
     constructor(private readonly talleres: TalleresService){}
-
+//get all
     @Get()
     @HttpCode(200)
     getTalleres(): Promise<TalleresDTO[]>{
         return this.talleres.getTalleres();
     }
+    //get by query
     @Get()
     @HttpCode(200)
     getTallerByQuery(@Query() query: any): Promise<TalleresDTO[]>{
         return this.talleres.getTallerByQuery(query)
     }
-
+//get by id
     @Get('/:id')
     @HttpCode(200)
     getTalleresById(@Param('id', new ParseIntPipe({
