@@ -1,7 +1,6 @@
 import { BadRequestException, Injectable, NotFoundException } from '@nestjs/common';
 import { TalleresDTO } from './talleresDTO';
-import { cpSync } from 'fs';
-import { error } from 'console';
+
 
 
 const url = 'http://localhost:3030/talleres'

@@ -217,30 +217,25 @@
   ],
   "users": [
     {
-      "id": 1,
-      "nombre": "Carla",
-      "apellido": "Arean",
-      "direccion": "empleados 45",
-      "edad": "44",
-      "imagen": "",
+      "nombre": "CARLA",
+      "apellido": "AREAN",
+      "direccion": "Barrio empleados de comercio 45",
+      "localidad": "",
+      "edad": "45",
       "email": "carlaandreaarean@gmail.com",
-      "contraseña": "@gmail2782",
-      "hobby": "",
-      "ocupacion": "",
-      "preferencias": ""
+      "contraseña": ",ddemed6485",
+      "id": 1
     },
     {
-      "id": 2,
       "nombre": "Juan",
       "apellido": "Ventureira",
-      "direccion": "empleados 45",
-      "edad": "44",
-      "imagen": "",
-      "email": "cjuanventureiran@gmail.com",
-      "contraseña": "@gventura4532",
-      "hobby": "",
-      "ocupacion": "",
-      "preferencias": ""
+      "direccion": "Argentina 333",
+      "localidad": "",
+      "edad": "46",
+      "email": "carlaandreaarean@gmail.com",
+      "contraseña": "fgfhhs545",
+      "id": 2
     }
-  ]
+  ],
+  "tallerGuardadoCuenta": []
 }
