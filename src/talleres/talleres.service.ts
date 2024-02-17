@@ -1,5 +1,6 @@
 import { BadRequestException, Injectable, NotFoundException } from '@nestjs/common';
 import { TalleresDTO } from './talleresDTO';
+import { UserDTO } from 'src/users/UsersDTO';
 
 
 
@@ -16,15 +17,17 @@ export class TalleresService {
 
     //get by id
     async getTalleresById(id: number): Promise<any> {
-        const res = await fetch(url + id);
-        const parsed = await res.json();
-        if (!Object.keys(parsed).length)
+        const res = await fetch(url + id); // ¿Es la URL correcta?
+         const parsed = await res.json();
+            if (!Object.keys(parsed).length) // ¿Qué estructura tiene `parsed`?
             throw new NotFoundException(`El ID: ${id} no existe`);
+         
         return parsed;
     }
 
+
     //get by query
-    async getTallerByQuery(query: any): Promise<any> {
+    async getTallerByQuery(query: any): Promise<TalleresDTO[]> {
         try {
 
             let result = await this.getTalleres();
@@ -45,6 +48,7 @@ export class TalleresService {
                     taller.descripcion.toUpperCase().includes(query.descripcion.toUpperCase())
                 )
             }
+            return result;
         }
         catch { throw new Error('Method not implemented.') };
     }
@@ -63,7 +67,7 @@ export class TalleresService {
             const res = await fetch(url + id, {
                 method: 'Put',
                 headers: {
-                    'Content-type': 'aplication/Json',
+                    'Content-Type': 'application/Json',
                 },
                 body: JSON.stringify(upDateTaller),
             });
@@ -96,7 +100,7 @@ export class TalleresService {
             const res = await fetch(url, {
                 method: 'Post',
                 headers: {
-                    'Content type': 'aplication/json',
+                    'Content-Type': 'application/json',
                 },
                 body: JSON.stringify(newTaller),
             });

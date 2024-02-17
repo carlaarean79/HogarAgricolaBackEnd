@@ -4,7 +4,7 @@ import { CuentaDtO } from './CuentaDTO';
 const url = 'http://localhost:3030/tallerGuardadoCuenta'
 @Injectable()
 export class CuentaService {
-   async getTallerGuardado(): Promise<CuentaDtO> {
+   async getTallerGuardado(): Promise<[CuentaDtO]> {
         const res = await fetch(url);
         if (!res.ok) throw new BadRequestException('Fallo al obtener los datos');
         const parsed = await res.json();
@@ -23,7 +23,7 @@ export class CuentaService {
             const res = await fetch(url, {
                 method: 'Post',
                 headers: {
-                    'Content type': 'aplication/json',
+                    'Content type': 'application/json',
                 },
                 body: JSON.stringify(newTallerGuardadoCuenta),
             });

@@ -227,14 +227,28 @@
       "id": 1
     },
     {
-      "nombre": "Juan",
+      "nombre": "ivan",
+      "apelllido": "Ventureira",
+      "direccion": "Argentina 333",
+      "edad": "19",
+      "email": "ivan@gmail.com",
+      "contraseña": "45621479",
+      "ocupacion": "",
+      "hobby": "",
+      "preferencias": "crochet",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "juan",
       "apellido": "Ventureira",
       "direccion": "Argentina 333",
-      "localidad": "",
-      "edad": "46",
-      "email": "carlaandreaarean@gmail.com",
-      "contraseña": "fgfhhs545",
-      "id": 2
+      "edad": "44",
+      "email": "juanvent@gmail.com",
+      "contraseña": "45621479",
+      "ocupacion": "",
+      "hobby": "",
+      "preferencias": "crochet"
     }
   ],
   "tallerGuardadoCuenta": []
