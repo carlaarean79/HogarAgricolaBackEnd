@@ -3,7 +3,7 @@
 import { join } from 'path';
 import {TutorialRecienteModule}  from './tutorial-reciente/tutorial-reciente.module'
 import { TalleresModule } from './talleres/talleres.module';
-import { CuentaModule} from './cuenta/cuenta.module';
+import { CuentaModule} from './Cuenta/cuenta.module';
 import { UsersModule } from './users/users.module';
 
 @Module({
