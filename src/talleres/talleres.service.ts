@@ -10,21 +10,21 @@ export class TalleresService {
     //get all
     async getTalleres(): Promise<any> {
         const res = await fetch(url);
+        
         if (!res.ok) throw new BadRequestException("Fallo al obtener los datos")
         const parsed = await res.json();
-        return parsed;
-    }
+    return parsed;
+}
 
-    //get by id
-    async getTalleresById(id: number): Promise<any> {
-        const res = await fetch(url + id); // ¿Es la URL correcta?
-         const parsed = await res.json();
-            if (!Object.keys(parsed).length) // ¿Qué estructura tiene `parsed`?
-            throw new NotFoundException(`El ID: ${id} no existe`);
-         
+//get by id
+async getTalleresById(id: number): Promise<any> {
+    const res = await fetch(url + id);
+    const parsed = await res.json();
+    if (!Object.keys(parsed).length) throw new NotFoundException(`Menu con id ${id} no existe`);
+    console.log(parsed);
+    
         return parsed;
-    }
-
+      }
 
     //get by query
     async getTallerByQuery(query: any): Promise<TalleresDTO[]> {

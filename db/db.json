@@ -8,7 +8,7 @@
     {
       "id": 2,
       "nombre": "Reciclado de botellas de vidrio",
-      "imagen": "https://www.somosfalabella.com/wp-content/uploads/2020/07/reciclaje-de-botellas-de-vidrio-min.jpg"
+      "imagen": "https://4.bp.blogspot.com/-bxFdNha6E7g/WHbNvLmtZ3I/AAAAAAAA3pM/PD8E29JxJc0MnQlwWfKsoEacHzJs44j8wCLcB/s1600/manualidades%2Bcon%2Bbotella%2Bde%2Bvidrio%2Breciclada.jpg"
     },
     {
       "id": 3,
@@ -37,56 +37,56 @@
       "nombre": "Hermosas plumas decorativas",
       "imagen": "https://1.bp.blogspot.com/-PdcYhDXzBPE/YC3gOQKQ3QI/AAAAAAAA_Ng/lcgZaEe0lsk2DuQBXmpefMFOoEVxUdsqACLcBGAsYHQ/s705/plumas-macrame-decoraci%25C3%25B3n.jpg",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "Macrame"
+      "categoria": "Macramé"
     },
     {
       "id": 1,
       "nombre": "Porta macetas con macramé",
       "imagen": "https://1.bp.blogspot.com/-UWWgFZQ0_A0/WCOk6sdA1hI/AAAAAAAAB1U/7SUN1_BzLfMdspGMwhMJHQFVbMdWLychQCLcB/s1600/macrame%25CC%2581%2Bplant%2Bhanger1.jpg",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "Macrame"
+      "categoria": "Macramé"
     },
     {
       "id": 3,
       "nombre": "Adornos navideños para el arbolito",
       "imagen": "https://i.pinimg.com/564x/9e/54/cf/9e54cf6331f2aee5487debb584745c91.jpg",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "Macrame"
+      "categoria": "Macramé"
     },
     {
       "id": 4,
       "nombre": "Santas, adornos navideños para el arbolitos",
       "imagen": "https://i.pinimg.com/564x/17/84/ea/1784ea0b3388be2d9d92175e1fb71f2e.jpg",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "Macrame"
+      "categoria": "Macramé"
     },
     {
       "id": 5,
       "nombre": "Kit navideño para regalar",
       "imagen": "https://i.pinimg.com/736x/56/c0/e2/56c0e2354e6b886f41c49e8e9181c8cd.jpg",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "Macrame"
+      "categoria": "Macramé"
     },
     {
       "id": 6,
       "nombre": "Atrapasueños personalizados",
       "imagen": "https://i.etsystatic.com/26318708/r/il/c1e63d/5127064769/il_794xN.5127064769_sepx.jpg",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "Macrame"
+      "categoria": "Macramé"
     },
     {
       "id": 7,
       "nombre": "Mandala árbol de la vida",
       "imagen": "https://i.pinimg.com/originals/15/3c/72/153c72a68f640c01eb24937444df963b.jpg",
       "descripcion": "Lorem ipsum dolor sit amet. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "Macrame"
+      "categoria": "Macramé"
     },
     {
       "id": 8,
       "nombre": "Cama colgante para gatos",
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_903744-MLA46536985906_062021-O.webp",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "Macrame"
+      "categoria": "Macramé"
     },
     {
       "id": 9,
@@ -117,13 +117,6 @@
       "categoria": "Crochet"
     },
     {
-      "id": 12,
-      "nombre": "Ositos de apego",
-      "imagen": "https://www.hoookedyarn.com/media/catalog/product/b/l/blauw_2.jpg",
-      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "Crochet"
-    },
-    {
       "id": 13,
       "nombre": "Adornos navideños: Guirnaldas",
       "imagen": "https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_991/v1630920688/content-items/009/026/597/guirnalda-original.jpeg?1630920688",
@@ -142,77 +135,196 @@
       "nombre": "Reloj pintado sobre madera recuperada",
       "imagen": "https://i.pinimg.com/236x/86/54/e6/8654e611506aca364224fd87ba701664.jpg",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "PinturaMadera"
+      "categoria": "Pintura sobre Madera"
     },
     {
       "id": 16,
       "nombre": "Técnica de pintura con acrílicos en mates",
       "imagen": "https://acdn.mitiendanube.com/stores/965/182/products/11eb0d5c-373d-482b-bfcd-61e4a7c716df-478acda017ddbe74ce16450504487852-640-0.jpeg",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "PinturaMadera"
+      "categoria": "Pintura sobre Madera"
     },
     {
       "id": 17,
       "nombre": "Reloj pintado sobre madera recuperada",
       "imagen": "https://i.pinimg.com/236x/86/54/e6/8654e611506aca364224fd87ba701664.jpg",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "PinturaMadera"
+      "categoria": "Pintura sobre Madera"
     },
     {
       "id": 18,
       "nombre": "Ténica para pintar Tulipanes",
       "imagen": "https://www.artesymanualidades.com/portal/shared/rs.php?rsid=1225",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "PinturaMadera"
+      "categoria": "Pintura sobre Madera"
     },
     {
       "id": 19,
       "nombre": "Caja vintage. Rosas que enamoran",
       "imagen": "https://2.bp.blogspot.com/-sPOKSBO-R80/Vr2w9nM5b6I/AAAAAAAAAWo/wJo-po9SvA4/s1600/caja%2Bvintage.png",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "PinturaMadera"
+      "categoria": "Pintura sobre Madera"
     },
     {
       "id": 20,
       "nombre": "Toque romántico para sillas antiguas",
       "imagen": "https://i.pinimg.com/236x/f5/cb/c8/f5cbc8ae4405b887e97bd24a8559e28f.jpg",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "PinturaMadera"
+      "categoria": "Pintura sobre Madera"
     },
     {
       "id": 21,
       "nombre": "Como pintar acuarela sobre madera",
       "imagen": "https://www.artlex.com/wp-content/uploads/2021/12/watercolor-paint-brushes.jpg",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "PinturaMadera"
+      "categoria": "Pintura sobre Madera"
     },
     {
       "id": 22,
       "nombre": "Juego de baño floreado",
       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHfdvYw0f4dXUNEBRHfXAQ4SN3cCgNDfK5BNuxoGH4zbK9XrGDpqPZiXb50olJ-DBbgBo&usqp=CAU",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "PinturaTela"
+      "categoria": "Pintura sobre Tela"
     },
     {
       "id": 23,
       "nombre": "Técnica para pintar frutas",
       "imagen": "https://s3-sa-east-1.amazonaws.com/zibilia/eventos/cover/950x/8016.jpg?1412747926",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "PinturaTela"
+      "categoria": "Pintura sobre Tela"
     },
     {
       "id": 24,
       "nombre": "Pintando almohadones con sténcil",
       "imagen": "https://www.brildor.com/blog/wp-content/uploads/2013/11/TIPsheet_stencilspray-coj%C3%ADn.bmp",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "PinturaTela"
+      "categoria": "Pintura sobre Tela"
     },
     {
       "id": 25,
       "nombre": "Pintura sobre jean",
       "imagen": "https://www.materialescolar.es/blog/wp-content/uploads/2019/01/61cc63f078fe6113c6737c2829cb789c.jpg",
       "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "categoria": "PinturaTela"
+      "categoria": "Pintura sobre Tela"
+    },
+    {
+      "id": 26,
+      "nombre": "Tarta de pollo y verdeo",
+      "imagen": "https://cdn0.recetasgratis.net/es/posts/0/5/1/tarta_de_pollo_y_verdeo_77150_600.webp",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Cocina"
+    },
+    {
+      "id": 27,
+      "nombre": "Pollo al disco con vino blanco",
+      "imagen": "https://cdn0.recetasgratis.net/es/posts/7/2/1/pollo_al_disco_con_vino_blanco_77127_600.webp",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Cocina"
+    },
+    {
+      "id": 28,
+      "nombre": "Pollo al disco con cerveza",
+      "imagen": "https://cdn0.recetasgratis.net/es/posts/4/4/0/pollo_al_disco_con_cerveza_44044_600.webp",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Cocina"
+    },
+    {
+      "id": 29,
+      "nombre": "Torta alfajor",
+      "imagen": "https://cdn0.recetasgratis.net/es/posts/9/5/1/torta_alfajor_77159_600.webp",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Cocina"
+    },
+    {
+      "id": 30,
+      "nombre": "Tarta de galletas",
+      "imagen": "https://cdn0.recetasgratis.net/es/posts/3/9/0/tarta_de_galletas_de_la_abuela_de_toda_la_vida_77093_600.webp",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Cocina"
+    },
+    {
+      "id": 31,
+      "nombre": "Fideos caseros al huevo",
+      "imagen": "https://cdn0.recetasgratis.net/es/posts/9/7/1/fideos_caseros_al_huevo_77179_600.webp",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Cocina"
+    },
+    {
+      "id": 32,
+      "nombre": "Ñoquis de calabaza y papa",
+      "imagen": "https://cdn0.recetasgratis.net/es/posts/3/4/9/noquis_de_calabaza_y_papa_76943_600.webp",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Cocina"
+    },
+    {
+      "id": 33,
+      "nombre": "Unicornia bebé",
+      "imagen": "https://i.pinimg.com/originals/d2/cb/f8/d2cbf8d38016d4a06a1c6521f98fb666.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Porcelana"
+    },
+    {
+      "id": 34,
+      "nombre": "Frascos de vidrio decorados",
+      "imagen": "https://manualidadesparahacerencasa.com/wp-content/uploads/2021/01/Cosas-con-porcelana-fria-para-la-casa.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Porcelana"
+    },
+    {
+      "id": 35,
+      "nombre": "Souvenir animales de la selva",
+      "imagen": "https://catalogoemprendedor.com/wp-content/uploads/2020/09/cereza4.jpeg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Porcelana"
+    },
+    {
+      "id": 36,
+      "nombre": "Peinados con trenzas para niñas",
+      "imagen": "https://images.ecestaticos.com/Oe58xONlaEqvJKfV_OAUYu8Te7c=/0x0:891x894/746x748/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F55d%2F16b%2F8e6%2F55d16b8e67078497b71970e2ab294a76.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Peluquería"
+    },
+    {
+      "id": 38,
+      "nombre": "Peinado de novia",
+      "imagen": "https://cdn0.matrimonios.cl/article-vendor/5421/original/1280/jpeg/f75a46f7-6741-40c6-be9b-3e437cd7c189_8_165421-167536108669831.jpeg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Peluquería"
+    },
+    {
+      "id": 39,
+      "nombre": "Alisado permanente",
+      "imagen": "https://elcomercio.pe/resizer/0uq6QsKGGrHEraOS24Z3ROdPXAg=/980x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/3VJXGXRGXNH6XB4M77GC4LYVQA.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Peluquería"
+    },
+    {
+      "id": 40,
+      "nombre": "Corte moderno para hombre",
+      "imagen": "https://homme.mx/wp-content/uploads/2023/10/peluqueria-y-barberia-homme-luxury-barbers-04.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Peluquería"
+    },
+    {
+      "id": 41,
+      "nombre": "Reciclado de botellas de vidrio",
+      "imagen": "https://4.bp.blogspot.com/-bxFdNha6E7g/WHbNvLmtZ3I/AAAAAAAA3pM/PD8E29JxJc0MnQlwWfKsoEacHzJs44j8wCLcB/s1600/manualidades%2Bcon%2Bbotella%2Bde%2Bvidrio%2Breciclada.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Reciclado"
+    },
+    {
+      "id": 42,
+      "nombre": "Reciclado de cajones de verdura",
+      "imagen": "https://vestiloblog.files.wordpress.com/2016/09/845f7d2fded94f31604feb16c01f3b0b.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Reciclado"
+    },
+    {
+      "id": 43,
+      "nombre": "Reciclado de muebles antiguos",
+      "imagen": "https://i1.wp.com/inarquia.es/wp-content/uploads/2018/01/images_cajonera-antigua.jpg?fit=766%2C505&ssl=1",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Reciclado"
     }
   ],
   "users": [
@@ -221,35 +333,61 @@
       "apellido": "AREAN",
       "direccion": "Barrio empleados de comercio 45",
       "localidad": "",
-      "edad": "45",
+      "edad": "44",
       "email": "carlaandreaarean@gmail.com",
-      "contraseña": ",ddemed6485",
+      "contraseña": "123456",
       "id": 1
+    }
+  ],
+  "cuenta": [
+    {
+      "id": 6,
+      "nombre": "Atrapasueños personalizados",
+      "imagen": "https://i.etsystatic.com/26318708/r/il/c1e63d/5127064769/il_794xN.5127064769_sepx.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Macramé"
     },
     {
-      "nombre": "ivan",
-      "apelllido": "Ventureira",
-      "direccion": "Argentina 333",
-      "edad": "19",
-      "email": "ivan@gmail.com",
-      "contraseña": "45621479",
-      "ocupacion": "",
-      "hobby": "",
-      "preferencias": "crochet",
-      "id": 2
+      "id": 1,
+      "nombre": "Porta macetas con macramé",
+      "imagen": "https://1.bp.blogspot.com/-UWWgFZQ0_A0/WCOk6sdA1hI/AAAAAAAAB1U/7SUN1_BzLfMdspGMwhMJHQFVbMdWLychQCLcB/s1600/macrame%25CC%2581%2Bplant%2Bhanger1.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Macramé"
     },
     {
       "id": 3,
-      "nombre": "juan",
-      "apellido": "Ventureira",
-      "direccion": "Argentina 333",
-      "edad": "44",
-      "email": "juanvent@gmail.com",
-      "contraseña": "45621479",
-      "ocupacion": "",
-      "hobby": "",
-      "preferencias": "crochet"
+      "nombre": "Adornos navideños para el arbolito",
+      "imagen": "https://i.pinimg.com/564x/9e/54/cf/9e54cf6331f2aee5487debb584745c91.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Macramé"
+    },
+    {
+      "id": 42,
+      "nombre": "Reciclado de cajones de verdura",
+      "imagen": "https://vestiloblog.files.wordpress.com/2016/09/845f7d2fded94f31604feb16c01f3b0b.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Reciclado"
+    },
+    {
+      "id": 10,
+      "nombre": "Sweter en punto arroz",
+      "imagen": "https://www.nosotras.com.mx/wp-content/uploads/2023/07/lavar-ropa-crochet.jpg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Crochet"
+    },
+    {
+      "id": 38,
+      "nombre": "Peinado de novia",
+      "imagen": "https://cdn0.matrimonios.cl/article-vendor/5421/original/1280/jpeg/f75a46f7-6741-40c6-be9b-3e437cd7c189_8_165421-167536108669831.jpeg",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Peluquería"
+    },
+    {
+      "id": 23,
+      "nombre": "Técnica para pintar frutas",
+      "imagen": "https://s3-sa-east-1.amazonaws.com/zibilia/eventos/cover/950x/8016.jpg?1412747926",
+      "descripcion": "Lorem ipsum dolor sit amet, Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "categoria": "Pintura sobre Tela"
     }
-  ],
-  "tallerGuardadoCuenta": []
+  ]
 }

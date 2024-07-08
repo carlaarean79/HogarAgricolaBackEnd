@@ -39,7 +39,7 @@ createUsers(@Body() userDto: UserDTO): Promise<any>{
 
 //update
  @Put('/:id')
-async upDateTallerById(
+upDateUsersById(
     @Param('id', new ParseIntPipe({ errorHttpStatusCode: HttpStatus.NOT_ACCEPTABLE })) id: number,
     @Body() userDto: UserDTO
 ): Promise<any> {

@@ -18,13 +18,13 @@ export class TalleresController {
         return this.talleresService.getTallerByQuery(query)
     }
 //get by id
-    @Get('/:id')
-    @HttpCode(200)
-    getTalleresById(@Param('id', new ParseIntPipe({
-        errorHttpStatusCode: HttpStatus.NOT_ACCEPTABLE
-      })) id: number): Promise<any> {
-        return this.talleresService.getTalleresById(id);
-      }
+@Get('/:id')
+@HttpCode(200)
+  getMenuById(@Param('id', new ParseIntPipe({
+    errorHttpStatusCode: HttpStatus.NOT_ACCEPTABLE
+  })) id: number): Promise<any> {
+    return this.talleresService.getTalleresById(id);
+  }
 
     @Post()
     @HttpCode(201)
